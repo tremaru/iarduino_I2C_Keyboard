@@ -1,0 +1,44 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_I2C_Keyboard
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_I2C_Keyboard	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	changeAddress	KEYWORD2
+	reset	KEYWORD2
+	getAddress	KEYWORD2
+	getVersion	KEYWORD2
+	getPullI2C	KEYWORD2
+	setPullI2C	KEYWORD2
+	available	KEYWORD2
+	readChar	KEYWORD2
+	readString	KEYWORD2
+	flush	KEYWORD2
+	setEncoding	KEYWORD2
+	getEncoding	KEYWORD2
+	setDelay	KEYWORD2
+	getDelay	KEYWORD2
+	setPeriod	KEYWORD2
+	getPeriod	KEYWORD2
+	getKey	KEYWORD2
+	getTime	KEYWORD2
+	setLed	KEYWORD2
+	getLed	KEYWORD2
+	setLight	KEYWORD2
+	getLight	KEYWORD2
+	setAnimation	KEYWORD2
+	getAnimation	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	KEY_ALL	LITERAL1
+	KEY_PUSHED	LITERAL1
+	KEY_RELEASED	LITERAL1
+	KEY_CHANGED	LITERAL1
+	KEY_STATE	LITERAL1
+	KEY_TRIGGER	LITERAL1
+	KEY_HOLD_05	LITERAL1
+	KEY_HOLD	LITERAL1
+	KEY_FREE	LITERAL1
